@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RateMyCodeUI/static/css/main.fa72ae7b.css",
+    "main.js": "/RateMyCodeUI/static/js/main.71e821ca.js",
+    "static/media/spinner.gif": "/RateMyCodeUI/static/media/spinner.a1a996746e5e48352c81.gif",
+    "index.html": "/RateMyCodeUI/index.html",
+    "main.fa72ae7b.css.map": "/RateMyCodeUI/static/css/main.fa72ae7b.css.map",
+    "main.71e821ca.js.map": "/RateMyCodeUI/static/js/main.71e821ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa72ae7b.css",
+    "static/js/main.71e821ca.js"
+  ]
+}
